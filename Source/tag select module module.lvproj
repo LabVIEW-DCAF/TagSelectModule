@@ -189,6 +189,7 @@
 			<Item Name="compare type.ctl" Type="VI" URL="../module/configuration/compare type.ctl"/>
 			<Item Name="delete alarm comparison.vi" Type="VI" URL="../module/configuration/delete alarm comparison.vi"/>
 			<Item Name="rename channel.vi" Type="VI" URL="../module/configuration/rename channel.vi"/>
+			<Item Name="runtime tag select configuration.ctl" Type="VI" URL="../module/execution/runtime tag select configuration.ctl"/>
 			<Item Name="set channel.vi" Type="VI" URL="../module/configuration/set channel.vi"/>
 			<Item Name="TRef FinderCallback.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef FinderCallback.vi"/>
 		</Item>
