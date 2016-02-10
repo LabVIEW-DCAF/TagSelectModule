@@ -10,9 +10,8 @@
 	<Item Name="channel operation tests.vi" Type="VI" URL="../channel operation tests.vi"/>
 	<Item Name="create default channels.vi" Type="VI" URL="../create default channels.vi"/>
 	<Item Name="init runtime test.vi" Type="VI" URL="../init runtime test.vi"/>
-	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
-	<Item Name="example test.vi" Type="VI" URL="../example test.vi"/>
-	<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
-	<Item Name="rename channel test.vi" Type="VI" URL="../rename channel test.vi"/>
 	<Item Name="Runtime Testing.vi" Type="VI" URL="../Runtime Testing.vi"/>
+	<Item Name="serialization tests.vi" Type="VI" URL="../serialization tests.vi"/>
+	<Item Name="rename channel test.vi" Type="VI" URL="../rename channel test.vi"/>
+	<Item Name="change channel select data typel test.vi" Type="VI" URL="../change channel select data typel test.vi"/>
 </Library>
