@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-02-16 15:27:26" Creator="Daniel" Comments="" ID="44b9d3564052605a3b0dd5cc9794c5d3">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-02-16 16:44:09" Creator="Daniel" Comments="" ID="7f2ba115447de580b86b27801b84c61b">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_tag_select</Package_File_Name>
     <Library_Version>1.0.0.1</Library_Version>
@@ -114,7 +114,7 @@ More details in : https://github.com/NISystemsEngineering/CEF/issues</Release_No
         <Namespace/>
       </Namespace_Overrides>
     </Source_Files>
-    <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
+    <License_Agreement_Filepath>LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
@@ -172,7 +172,7 @@ More details in : https://github.com/NISystemsEngineering/CEF/issues</Release_No
     </LabVIEW>
     <VI_Docs>
       <Edit_VI_Description>true</Edit_VI_Description>
-      <Text_to_Add>Copyright 2015 National Instruments Corporation
+      <Text_to_Add>Copyright 2016 National Instruments Corporation
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</Text_to_Add>

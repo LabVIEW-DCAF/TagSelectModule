@@ -2,7 +2,7 @@
 <LVClass LVVersion="13008000">
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)'!!!*Q(C=\&gt;3R=2MR%!81F=?"5U6/07RB7W!,&lt;'&amp;&lt;9+K1,7Q,&lt;)%N&lt;!NMA3X)4S@9Y]2C9(N'HB&amp;/3Z%@&gt;]!D$LS)L8W*_"T0^^L8.^P`XX_PR:PNI`_D`XXXX^`?4`&gt;`"0_W24RM5D7K6;H=PNXTS%=_]J'0@/1N&lt;XH,7^\SFJ?]Z#5P?=F,HP+5JTTF+5`Z&gt;MB$(P+17Z5R_:BI$$I''#?DR(A:HO%:HO(R-9:H?):H?)&lt;(+4%]QT-]QT-],IPB':\B':\B-&gt;1GG?W1]QS0Y;.ZGK&gt;ZGK&gt;Z4"H.UQ"NMD:Q'Q1D7G&gt;\UTT.UTT?2P-U4`-U4`0IDO:JHO:JHO:RS&lt;9KP7F?$DG09;*YCK&gt;YCK&gt;Y$"X&amp;5TT&amp;5TT&amp;9\IIHO)JC$*B'2QBSE8FB0+B?)L(PSC?YCG?YCE?8&gt;M&gt;KGVF8D1PBZQH?:)H?:)H?1Q2S:-]S:-]S7093*\E3:\E32Z42@)E4`)E3*L5^*%'3R?GEV+100[WX:,&lt;8?J.ENOR@JKP'T87"ISVM7*NG&amp;A&lt;)&gt;9.DH8D9NW17!M&gt;;Q&amp;D,5SM,RTLC]1#RJIYVI#R4IS&lt;V[O[K,-[K;-[K,X;K=?83``SC&lt;@&lt;,;\8;VQOFTC@TX%[H?*Y0-&lt;B=)D^@B_\X3Y?(R^`0KW_/6\&lt;QY`HUJ0XP[N\`8^3L]_F^`"MD%`R`-NDXBJ^"Z*++[Y!!!!!</Property>
-	<Property Name="NI.Lib.LocalName" Type="Str">alarms module configuration</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">tag select module configuration</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.6</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
