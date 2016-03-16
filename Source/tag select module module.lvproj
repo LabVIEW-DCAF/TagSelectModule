@@ -20,6 +20,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Table Manager.lvlib" Type="Library" URL="../../../Table API/Table Manager.lvlib"/>
 		<Item Name="tag select module configuration.lvclass" Type="LVClass" URL="../module/configuration/tag select module configuration.lvclass"/>
 		<Item Name="tag select module editor node.lvclass" Type="LVClass" URL="../editor node/tag select module editor node.lvclass"/>
 		<Item Name="tag select module runtime.lvclass" Type="LVClass" URL="../module/execution/tag select module runtime.lvclass"/>
@@ -125,6 +126,8 @@
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="overlay enum on cell.vi" Type="VI" URL="../editor node/overlay enum on cell.vi"/>
+			<Item Name="RefreshUI Event.vi" Type="VI" URL="../editor node/RefreshUI Event.vi"/>
 			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
