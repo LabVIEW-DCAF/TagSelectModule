@@ -20,11 +20,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Int Reg Events.ctl" Type="VI" URL="../../../Table API/Listbox/Int Reg Events.ctl"/>
 		<Item Name="Table Manager.lvlib" Type="Library" URL="../../../Table API/Table Manager.lvlib"/>
 		<Item Name="tag select module configuration.lvclass" Type="LVClass" URL="../module/configuration/tag select module configuration.lvclass"/>
 		<Item Name="tag select module editor node.lvclass" Type="LVClass" URL="../editor node/tag select module editor node.lvclass"/>
 		<Item Name="tag select module runtime.lvclass" Type="LVClass" URL="../module/execution/tag select module runtime.lvclass"/>
 		<Item Name="tag select module tests.lvlib" Type="Library" URL="../testing/tag select module tests.lvlib"/>
+		<Item Name="Test Enum Helpers.vi" Type="VI" URL="../../../Table API/Enum/Test Enum Helpers.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name=".NET Object To Variant.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/dotnet.llb/.NET Object To Variant.vi"/>
