@@ -20,7 +20,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Int Reg Events.ctl" Type="VI" URL="../../../Table API/Listbox/Int Reg Events.ctl"/>
 		<Item Name="Table Manager.lvlib" Type="Library" URL="../../../Table API/Table Manager.lvlib"/>
 		<Item Name="tag select module configuration.lvclass" Type="LVClass" URL="../module/configuration/tag select module configuration.lvclass"/>
 		<Item Name="tag select module editor node.lvclass" Type="LVClass" URL="../editor node/tag select module editor node.lvclass"/>
