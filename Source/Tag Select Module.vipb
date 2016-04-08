@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-03-16 12:49:10" Creator="Daniel" Comments="" ID="e74845cd8a539676efd2c69c00d9095f">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-04-07 20:42:53" Creator="Daniel" Comments="" ID="1ca97fa8e639e44126085b56de812d0a">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_tbm_tag_select</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\releases\TagSelectModule</Library_Output_Folder>
